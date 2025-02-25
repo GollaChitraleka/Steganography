@@ -32,11 +32,14 @@ This project demonstrates a simple form of image steganography, where a secret t
 
 **Output:**
 
-![image](https://github.com/user-attachments/assets/160525db-5370-4d79-93ba-16eff9d2a547)
+![Screenshot (21)](https://github.com/user-attachments/assets/5be1344c-34cd-4f42-9851-05ad3124a4c0)
 
-![image](https://github.com/user-attachments/assets/35d7a34e-500f-4816-85ab-550f8f9d6d80)
 
-![image](https://github.com/user-attachments/assets/90fc3554-1e07-4f25-ba9d-b025af9a128c)
+![Screenshot (22)](https://github.com/user-attachments/assets/bd6eb997-1841-41fe-823f-7ba92b497852)
+
+
+![Screenshot (23)](https://github.com/user-attachments/assets/661b241f-8e8d-4757-bb99-405f16234e29)
+
 
 **Conclusion:**  
 This project serves as an accessible introduction to the concepts of steganography and basic image processing using Python and OpenCV. It highlights how digital images can be manipulated to hide information and provides a hands-on example of both the encryption and decryption processes through a modern, user-friendly GUI.
